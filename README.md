@@ -13,4 +13,4 @@
     <img align="center" alt="mui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
 </div><br/>
 
-Front-end aprendiz, formado em Análise e Desenvolvimento, sempre em busca de novos desafios e aprendizados na área de programação.
+Front-end, formado em Análise e Desenvolvimento, sempre em busca de novos desafios e aprendizados na área de programação.
